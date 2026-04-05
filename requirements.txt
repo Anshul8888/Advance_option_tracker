@@ -1,0 +1,5 @@
+kiteconnect==5.0.1
+xlwings==0.32.1
+pandas==2.2.0
+numpy==1.26.4
+requests==2.31.0
